@@ -1,10 +1,13 @@
 /*
- * scramble.c
+ * @(#) scramble.c
  *
  * Implements the game Scramble. 
  *
  * Usage: scramble [#]
  * where # is an optional grid number.
+ *
+ * @author chindesaurus
+ * #version 1.00
  */
  
 #include <assert.h>
