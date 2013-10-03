@@ -461,7 +461,6 @@ lookup(char *s) {
  */
 void 
 scramble(void) {
-    // TODO
 
     char orig[DIMENSION][DIMENSION];
 
