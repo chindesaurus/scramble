@@ -443,11 +443,11 @@ lookup(char *s) {
             return true;
         }
 
-        // if s is before middle
+        // if s is after middle
         else if (comparison > 0)
             min = middle + 1;
         
-        // if s is after middle
+        // if s is before middle
         else
             max = middle - 1; 
     }
